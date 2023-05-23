@@ -15,3 +15,4 @@ For a data engineer, a data lake can be a powerful tool for managing and process
 <b>Data governance</b>: As a data engineer, you are responsible for ensuring that data is properly managed and secured. A data lake can be used to implement data governance policies, such as access control, data lineage, and data retention policies.
 
 Overall, a data lake can be a valuable tool for data engineers as it provides a centralized and flexible way to store, process, and manage data in an organization.
+
