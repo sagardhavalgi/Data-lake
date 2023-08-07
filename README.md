@@ -1,6 +1,6 @@
 # Data-lake
 
-<h3 align="left">Data lake for Data engineer.</h3>
+<h3 align="left">Data lake for Data engineer</h3>
 
 For a data engineer, a data lake can be a powerful tool for managing and processing large volumes of data. As a data engineer, your primary responsibility is to design, build, and maintain the infrastructure required to store and manage data in an organization. In this context, a data lake can help you achieve the following:
 
